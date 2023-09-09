@@ -8,10 +8,15 @@ This project aims to create a comprehensive portal for students, teachers, and p
 Teacher Sign-up with authentication.
 <br>
 Teacher's dashboard with options to add/delete students.
+<br>
 Establish one-to-one relationships between students and teachers, and parents and teachers.
+<br>
 Parent Sign-up with authentication.
-Parent dashboard mirroring the features of Task 3.
+<br>
+Parent dashboard mirroring the features.
+<br>
 Skills Utilized:
-# SQL for database management.
-Python for backend logic.
-GUI development for user interfaces.
+# SQL 
+SQL for database management.<br>
+Python for backend logic.<br>
+GUI development for user interfaces.<br>
