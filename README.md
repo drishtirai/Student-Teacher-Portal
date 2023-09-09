@@ -6,6 +6,7 @@ This project aims to create a comprehensive portal for students, teachers, and p
 # Key Features:
 
 Teacher Sign-up with authentication.
+<br>
 Teacher's dashboard with options to add/delete students.
 Establish one-to-one relationships between students and teachers, and parents and teachers.
 Parent Sign-up with authentication.
